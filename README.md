@@ -2,9 +2,9 @@
 
 # `Space Scofield`
 
-**Low-level programming · Giant Learner, Never Master · High-Level Applications**
+**Low-level programming · Always Learning, Never Mastered · High-Level Applications**
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00FF41&center=true&vCenter=true&width=600&lines=whoami;Low-level+programming;Giant+Learner,+Never+Master;High-Level+Applications)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00FF41&center=true&vCenter=true&width=600&lines=whoami;Low-level+programming;Always+Learning,+Never+Mastered;High-Level+Applications)
 
 </div>
 
