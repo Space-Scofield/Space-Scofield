@@ -57,22 +57,18 @@ NAME="CachyOS"
 
 | Project | Description | Technologies |
 |:--|:--|:--|
-| **Yo-kai Watch 2 Decompiled** | Reverse engineering and modding, including asset importing, skeleton analysis and animation debugging | Ghidra, C |
 | **Yo-kai Watch Showdown** | Competitive battle simulator with a data model and stat calculation system | Java |
-| **webOS Rust Apps** | Native applications for LG webOS TVs, with platform reverse engineering and a custom backend | Rust |
-| **LowLevel Security Academy** | Obsidian knowledge base covering cybersecurity and reverse engineering | Obsidian |
-| **Second Brain** | Agent system with persistent memory | Python, Flask, SQLite, Anthropic API |
-| **GTNH Translation** | Translation of the GregTech: New Horizons modpack | — |
+
 
 ---
 
 ## Current Focus
 
-- Reverse engineering and binary analysis
-- Low-level C and memory management
+- High-Level Java apps
+- Low-level C and Rust
 - Linux internals and systems programming
-- Cybersecurity fundamentals
-- Game modding and engine internals
+- Data-Intensive Programs
+- Game development
 
 ---
 
