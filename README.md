@@ -22,10 +22,10 @@ NAME="CachyOS"
 
 ### System
 
-![CachyOS](https://img.shields.io/badge/CachyOS-1793D1?logo=archlinux&logoColor=white)
+![CachyOS](https://img.shields.io/badge/CachyOS-00AEEF?logo=linux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-1D99F3?logo=kde&logoColor=white)
-![Fish](https://img.shields.io/badge/Fish_Shell-4AAE46?logo=gnubash&logoColor=white)
+![Fish](https://img.shields.io/badge/Fish_Shell-4AAE25?logo=fishshell&logoColor=white)
 
 ### Languages
 
@@ -37,13 +37,13 @@ NAME="CachyOS"
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=amazondynamodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=databricks&logoColor=white)
 
 ### Tools & Frameworks
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?logo=apachetomcat&logoColor=black)
+![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?logo=apachetomcat&logoColor=black)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
@@ -56,7 +56,6 @@ NAME="CachyOS"
 | Project | Description | Technologies |
 |:--|:--|:--|
 | **Yo-kai Watch Showdown** | Competitive battle simulator with a data model and stat calculation system | Java |
-
 
 ---
 
