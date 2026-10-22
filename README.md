@@ -68,9 +68,3 @@ NAME="CachyOS"
 - Game development
 
 ---
-
-<div align="center">
-
-![Contribution Snake](https://raw.githubusercontent.com/Space/Space/output/github-contribution-grid-snake-dark.svg)
-
-</div>
