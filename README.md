@@ -1,26 +1,34 @@
-```markdown
-<div align="center">
+ <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=60&lines=whoami;Low-level+programming;Reverse+engineering;Cybersecurity" alt="Typing SVG" />
+# `Space`
+
+**Low-level programming · Giant Learner, Never Master · High-Level Applications**
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00FF41&center=true&vCenter=true&width=600&lines=whoami;Low-level+programming;Giant+Learner,+Never+Master;High-Level+Applications)
 
 </div>
 
-```fish
-$ uname -m        → x86_64
-$ cat /etc/os-release | grep NAME
+```bash
+$ uname -m
+x86_64
+
+$ cat /etc/os-release | grep '^NAME='
 NAME="CachyOS"
 ```
 
 ---
 
-## Stack
+## Tech Stack
 
 ### System
+
 ![CachyOS](https://img.shields.io/badge/CachyOS-1793D1?logo=archlinux&logoColor=white)
-![KDE](https://img.shields.io/badge/KDE_Plasma-1D99F3?logo=kde&logoColor=white)
-![Fish](https://img.shields.io/badge/fish-000000?logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-1D99F3?logo=kde&logoColor=white)
+![Fish](https://img.shields.io/badge/Fish_Shell-4AAE46?logo=gnubash&logoColor=white)
 
 ### Languages
+
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
@@ -29,46 +37,47 @@ NAME="CachyOS"
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-### Reverse engineering & security
+### Reverse Engineering & Security
+
 ![Ghidra](https://img.shields.io/badge/Ghidra-E74C3C?logo=ghidra&logoColor=white)
 
-### Tools
+### Tools & Frameworks
+
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipseide&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?logo=apachetomcat&logoColor=black)
+![Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?logo=apachetomcat&logoColor=black)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic_API-191919?logo=anthropic&logoColor=white)
+![Anthropic API](https://img.shields.io/badge/Anthropic_API-191919?logo=anthropic&logoColor=white)
 
 ---
 
 ## Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| **Yo-kai Watch 2 Decompiled** | Reverse engineering and modding: asset import pipeline, skeleton and animation debugging | Ghidra, C |
-| **Yo-kai Watch Showdown** | Competitive battle simulator. Data model and `StatCalculator` in progress | Java |
-| **webOS Rust Apps** | Native apps for LG webOS TVs. Reverse-engineering the platform, custom backend | Rust |
-| **LowLevel Security Academy** | Obsidian vault on cybersecurity and reverse engineering, published on Gumroad | Obsidian |
+| Project | Description | Technologies |
+|:--|:--|:--|
+| **Yo-kai Watch 2 Decompiled** | Reverse engineering and modding, including asset importing, skeleton analysis and animation debugging | Ghidra, C |
+| **Yo-kai Watch Showdown** | Competitive battle simulator with a data model and stat calculation system | Java |
+| **webOS Rust Apps** | Native applications for LG webOS TVs, with platform reverse engineering and a custom backend | Rust |
+| **LowLevel Security Academy** | Obsidian knowledge base covering cybersecurity and reverse engineering | Obsidian |
 | **Second Brain** | Agent system with persistent memory | Python, Flask, SQLite, Anthropic API |
 | **GTNH Translation** | Translation of the GregTech: New Horizons modpack | — |
 
 ---
 
-## Focus
+## Current Focus
 
 - Reverse engineering and binary analysis
-- Low-level C and memory model
-- Linux internals
+- Low-level C and memory management
+- Linux internals and systems programming
 - Cybersecurity fundamentals
-- Game and engine modding
+- Game modding and engine internals
 
 ---
 
 <div align="center">
 
-![Snake](https://raw.githubusercontent.com/Space/Space/output/github-contribution-grid-snake-dark.svg)
+![Contribution Snake](https://raw.githubusercontent.com/Space/Space/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-```
